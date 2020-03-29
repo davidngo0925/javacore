@@ -18,5 +18,7 @@ public class BT3 {
         System.out.println( a + " * " + b + " = " + tich );
         System.out.println( a + " / " + b + " = " + phannguyen );
         System.out.println( a + " % " + b + " = " + phandu );
+
+        System.out.println("New line test git");
     }
 }
